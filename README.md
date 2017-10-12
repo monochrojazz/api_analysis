@@ -14,6 +14,6 @@ APIの付加情報
 - LdrGetProcedureAddressで呼ばれた関数名
 - APIが呼び出すファイル名
 - APIが呼び出すレジストリキー
-はMODE切り替えによって表示される。  
 
+はMODE切り替えによって表示される。  
 具体的な設定方法はipynbのコメント参照。  
